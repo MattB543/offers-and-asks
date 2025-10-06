@@ -1,0 +1,26 @@
+{
+  "name": "ea-global-matching",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.4.21",
+    "vue-router": "^4.3.0",
+    "@supabase/supabase-js": "^2.39.8",
+    "@headlessui/vue": "^1.7.18",
+    "@heroicons/vue": "^2.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.19",
+    "@vitejs/plugin-vue": "^5.0.4",
+    "typescript": "^5.4.2",
+    "vite": "^5.1.6",
+    "vue-tsc": "^2.0.6",
+    "supabase": "^2.48.3"
+  }
+}

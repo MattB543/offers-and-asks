@@ -1,0 +1,30 @@
+# Python data directories
+input/
+outputs/
+claude/
+
+# Environment variables (contains secrets)
+.env
+
+# Node.js
+node_modules/
+
+# Vite build output
+dist/
+dist-ssr/
+
+# Editor directories
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
